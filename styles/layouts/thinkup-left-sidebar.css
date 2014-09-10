@@ -1,0 +1,24 @@
+/*----------------------------------------------------
+	Left Sidebar
+---------------------------------------------------- */
+#main {
+	float: right;
+	width: 75%;
+	display: block;
+}
+#main-core {
+	margin-left: 20px;
+}
+#sidebar {
+	display: block;
+	float: right;
+	width: 25%;
+}
+#sidebar {
+	display: block;
+	float: left;
+	width: 25%;
+}
+#sidebar-core {
+	margin-right: 10px;
+}
