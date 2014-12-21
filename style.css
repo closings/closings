@@ -750,6 +750,7 @@ li.pag-next {
 }
 #header-links {
 	float: right;
+	margin-right: 80px;
 }
 #header-links-inner {
 	float: right;
