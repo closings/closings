@@ -1967,7 +1967,6 @@ if( !class_exists( 'ReduxFramework' ) ) {
             echo '<div id="info_bar">';
             echo '<a href="javascript:void(0);" id="expand_options">' . __( 'Expand', 'redux-framework' ) . '</a>';
             echo '<div class="redux-action_bar">';
-            echo '<a href="http://www.thinkupthemes.com/themes/engrave/" target="_blank" class="promotion-button">Upgrade Now</a>';
             submit_button( '', 'primary', 'redux_save', false );
             echo '&nbsp;';
             submit_button( __( 'Reset to Defaults', 'redux-framework' ), 'secondary', $this->args['opt_name'] . '[defaults]', false );
@@ -2224,7 +2223,6 @@ if( !class_exists( 'ReduxFramework' ) ) {
             }
 
             echo '<div class="redux-action_bar">';
-            echo '<a href="http://www.thinkupthemes.com/themes/engrave/" target="_blank" class="promotion-button">Upgrade Now</a>';
             submit_button( '', 'primary', 'redux_save', false );
             echo '&nbsp;';
             submit_button( __( 'Reset to Defaults', 'redux-framework'), 'secondary', $this->args['opt_name'] . '[defaults]', false );
