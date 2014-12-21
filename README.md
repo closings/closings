@@ -1,4 +1,0 @@
-closings
-========
-
-Wordpress Theme
