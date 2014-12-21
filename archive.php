@@ -33,7 +33,7 @@ get_header(); ?>
 
 						</div>
 
-						<?php thinkup_input_blogmeta(); ?>
+						<!--<?php thinkup_input_blogmeta(); ?> -->	
 
 					</article><!-- #post-<?php get_the_ID(); ?> -->	
 
