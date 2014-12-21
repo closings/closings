@@ -1,18 +1,18 @@
-== Think Up Themes ==
+== Closings.com ==
 
-- By Think Up Themes, http://www.thinkupthemes.com/
+- By IT Next Consultant, http://itnextconsultant.com/
 
 Requires at least:	3.4.1
-Tested up to:		3.9.2
+Tested up to:		4.1.0
 
-Engrave Lite is the free version of the multi-purpose professional theme ideal for a business or blog website. The theme is responsive, HD retina ready and comes with 600+ Google Fonts which can easily be selected directly from the theme options panel.
+Closings.com is a multi-purpose professional theme ideal for a business or blog website. The theme is responsive, HD retina ready and comes with 600+ Google Fonts which can easily be selected directly from the theme options panel.
 
 
 -----------------------------------------------------------------------------
 	Support
 -----------------------------------------------------------------------------
 
-- For setup and use instructions please refer to file "ThinkUpThemes - Lite Documentation.pdf" in licensing folder.
+- For setup and use instructions please refer to file "Closings.com - Documentation.pdf" in licensing folder.
 
 
 -----------------------------------------------------------------------------
@@ -34,8 +34,8 @@ Engrave Lite is the free version of the multi-purpose professional theme ideal f
 	Copyright, Sources, Credits & Licenses
 -----------------------------------------------------------------------------
 
-Engrave Lite WordPress Theme, Copyright 2011 Think Up Themes Ltd
-Engrave Lite is distributed under the terms of the GNU GPL
+Closings.com WordPress Theme, Copyright 2014 IT Next Consultant LLC.
+Closings.com is distributed under the terms of the GNU GPL
 
 Demo images are licensed under CC0 1.0 Universal (CC0 1.0) and available from http://pixabay.com/
 Image used in screenshot licensed under CC0 1.0 Universal (CC0 1.0) and available from http://pixabay.com/en/new-york-city-brooklyn-bridge-night-336475/
@@ -90,6 +90,11 @@ The following opensource projects, graphics, fonts, API's or other files as list
 
     [1.10] Item:        Elegant Media Icons
            Item URL:    https://www.iconfinder.com/search/?q=iconset:elegantmediaicons
+           Licence:     GPL
+           Licence URL: http://www.gnu.org/licenses/gpl.html
+
+    [1.11] Item:        Engrave Lite
+           Item URL:    http://www.thinkupthemes.com/free/engrave-lite/
            Licence:     GPL
            Licence URL: http://www.gnu.org/licenses/gpl.html
 
