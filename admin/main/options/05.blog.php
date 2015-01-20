@@ -163,7 +163,7 @@ function thinkup_input_blogmeta() {
 	echo '<div class="entry-meta">';
 		if ( is_sticky() && is_home() && ! is_paged() ) { thinkup_input_sticky(); }
 
-		thinkup_input_blogauthor();
+		//thinkup_input_blogauthor();
 		thinkup_input_blogdate();
 		thinkup_input_blogcomment();
 		thinkup_input_blogcategory();
@@ -180,7 +180,7 @@ function thinkup_input_postmeta() {
 
 	echo '<header class="entry-header entry-meta">';
 		thinkup_input_blogdate();
-		thinkup_input_blogauthor();
+		//thinkup_input_blogauthor();
 		thinkup_input_blogcomment();
 		thinkup_input_blogcategory();
 		thinkup_input_blogtag();
@@ -213,7 +213,7 @@ function thinkup_input_postauthorbiocode() {
 function thinkup_input_postauthorbio() {
 global $thinkup_post_authorbio;
 
-	thinkup_input_postauthorbiocode();
+	//thinkup_input_postauthorbiocode();
 }
 
 
